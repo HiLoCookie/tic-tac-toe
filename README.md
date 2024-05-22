@@ -1,0 +1,1 @@
+This is a very simple tic tac toe project using 5x5 playboard. Everything created using JS, CSS and HTML. Playboard can be resized (3x3, 4x4, 10x10 etc.) with deleting/adding a few lines of JS code in the "winningCombos"
